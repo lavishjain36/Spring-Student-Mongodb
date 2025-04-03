@@ -1,5 +1,5 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb+srv://lavish:xbLKL06qE7iBKqyp@cluster0.qqrdt7e.mongodb.net/
-      database: studentdb
+#spring:
+#  data:
+#    mongodb:
+#      uri: mongodb+srv://lavish:xbLKL06qE7iBKqyp@cluster0.qqrdt7e.mongodb.net/
+#      database: studentdb
